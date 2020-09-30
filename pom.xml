@@ -1,0 +1,16 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>dad</groupId>
+  <artifactId>CodeSignal</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  
+  
+    <properties>
+  <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  <maven.compiler.source>14</maven.compiler.source>
+  <maven.compiler.target>14</maven.compiler.target>
+  <exec.mainClass>arcade.codeSignal.intro.SumarNumeros</exec.mainClass>
+  <exec.mainClass>arcade.codeSignal.intro.ObtenerSiglo</exec.mainClass>
+  <exec.mainClass>arcade.codeSignal.intro.</exec.mainClass>
+  </properties>
+</project>
