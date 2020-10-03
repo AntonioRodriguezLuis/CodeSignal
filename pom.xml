@@ -11,6 +11,6 @@
   <maven.compiler.target>14</maven.compiler.target>
   <exec.mainClass>arcade.codeSignal.intro.SumarNumeros</exec.mainClass>
   <exec.mainClass>arcade.codeSignal.intro.ObtenerSiglo</exec.mainClass>
-  <exec.mainClass>arcade.codeSignal.intro.</exec.mainClass>
+  <exec.mainClass>arcade.codeSignal.intro.CheckPalindrome</exec.mainClass>
   </properties>
 </project>
